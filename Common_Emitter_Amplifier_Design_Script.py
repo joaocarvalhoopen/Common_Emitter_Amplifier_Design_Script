@@ -97,31 +97,3 @@ else:
     print("C3 - Bypass capacitor greater than ", str(C3), "Farads")
 
 print("Zin Input Impedance", str(Zin), "Ohms")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
